@@ -7,7 +7,9 @@
             <h1 class="cover__ttl" id="js-text">CONTACTS</h1>
             <p class="cover__txt" id="js-second-text"><a href="#one">Scroll</a></p>
         </div>
-        <div class="cover__bg" style="background-image:url('img/biography-photo.png');"></div>
+        <div class="cover__bg"
+             style="background-image:url('img/biography-photo.png');"
+        ></div>
         <div class="cover__bg--filter"></div>
     </section>
 
